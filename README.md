@@ -22,13 +22,11 @@ To run this project locally, you must have the following installed on your syste
    git clone [https://github.com/your-username/Sand-Simulation.git](https://github.com/your-username/Sand-Simulation.git)
 
     Navigate to the project directory:
-    Bash
 
     cd Sand-Simulation
 
     Install the required dependencies:
     It is recommended to use a virtual environment. Install the Pygame library using pip:
-    Bash
 
     pip install pygame
 
