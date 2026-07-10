@@ -1,5 +1,3 @@
-Markdown
-
 # Sand-Simulation
 
 ## Overview
@@ -9,7 +7,7 @@ Sand-Simulation is a 2D cellular automaton built in Python using the Pygame libr
 * **Cellular Automaton Engine:** Implements a bottom-up grid update algorithm to accurately simulate particle collisions, gravity, and displacement.
 * **Interactive Rendering:** Users can draw sand structures in real-time using mouse input.
 * **Dynamic Color Generation:** Particles are generated with slight color variations to provide a textured, realistic visual representation.
-* **Multiple Material States:** Includes a secondary color generation mode, allowing for visual distinction between particle types (toggled via keyboard input).
+* **Multiple Material States:** Includes a secondary color generation mode, allowing for visual distinction between particle types (toggled via SPACEBAR).
 
 ## Prerequisites
 To run this project locally, you must have the following installed on your system:
@@ -20,7 +18,7 @@ To run this project locally, you must have the following installed on your syste
 
 1. **Clone the repository:**
    Open your terminal or command prompt and run:
-   ```bash
+   ```
    git clone [https://github.com/your-username/Sand-Simulation.git](https://github.com/your-username/Sand-Simulation.git)
 
     Navigate to the project directory:
@@ -37,7 +35,6 @@ To run this project locally, you must have the following installed on your syste
 Usage
 
 To execute the simulation, run the main Python script from your terminal:
-Bash
 
 python main.py
 
